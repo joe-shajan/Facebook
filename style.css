@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(to bottom , rgb(240,242,245), rgb(240, 242, 245) );
+}
+.scrollbar:hover{
+
+    overflow: auto !important;
+
+}
+.story:hover{
+    opacity: 0.9;
+}
